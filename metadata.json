@@ -1,0 +1,6 @@
+{
+  "name": "PVZ.FLOW — Учёт фулфилмента ПВЗ для Wildberries",
+  "description": "Локальная система учёта фулфилмента ПВЗ для Wildberries (PVZ.FLOW): матрица остатков, капсульный учёт хранения (FIFO), расчёт услуг селлера и зарплаты операторов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
